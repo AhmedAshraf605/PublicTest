@@ -1,8 +1,8 @@
 class Testcodereplacer < Formula
   desc "Description of TestCodeReplacer Tool"
   homepage "https://www.instabug.com"
-  url "https://github.com/AhmedAshraf605/homebrew-PublicTest/archive/refs/tags/1.0.0.tar.gz"
-  sha256 "c62d8688dee4b4b1e6735bc32045c25d2344946b9000db8890e4bacb0f8dcef2"
+  url "https://github.com/AhmedAshraf605/PublicTest/blob/main/TestCodeReplacer.zip"
+  sha256 "5beb892dc5fb74e2b75d11a8cdf5a2ab17df20f0dd5bb8576a90891cb87bd12e"
   version "1.0.0"
 
   def install
